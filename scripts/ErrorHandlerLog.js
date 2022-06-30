@@ -16,7 +16,6 @@ function test() {
 }
 
 
-
 /**
  * Handles try-catch errors and appends the data to another spreadsheet for logging purposes.
  * @typedef Exception
